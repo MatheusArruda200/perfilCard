@@ -1,7 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { Image, StyleSheet, Text, View } from 'react-native';
 import img1 from './assets/capa.png';
-import img2 from './assets/foto.png';
 import PerfilFoto from './assets/perfil.jpg';
 
 
