@@ -14,8 +14,8 @@ O aplicativo apresenta uma tela básica contendo:
 ## Tecnologias Utilizadas
 
 * **React Native:** Framework para construção de aplicativos mobile nativos usando JavaScript e React.
-* **Expo:** (Implícito pelo uso de `expo-status-bar`) Framework e plataforma para desenvolvimento, build e deploy universal de aplicativos React Native.
-* **JavaScript / TypeScript:** Linguagem de programação (baseado na descrição no texto).
+* **Expo:**  Framework e plataforma para desenvolvimento, build e deploy universal de aplicativos React Native.
+* **JavaScript / TypeScript:** Linguagem de programação
 * Componentes React Native básicos (`View`, `Text`, `Image`, `StyleSheet`).
 
 ## Requisitos
@@ -53,5 +53,3 @@ O código principal da aplicação está contido em um único arquivo:
 * Matheus Arruda
 
 ---
-
-*(Este README foi gerado com base no código fornecido no arquivo App.js)*
